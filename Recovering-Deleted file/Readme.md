@@ -12,14 +12,15 @@ Regardless let Get it,
 They are many data recovering software out there feel free to search for them,but for this we are using ``Recuva`` which can be gotten from https://www.ccleaner.com/recuva/download and install it. 
 
 #### Target Storage Device
-This would the storage device that the file/s got deleted from , for this would be using a old flash drive i have been with for some time now , this would work for any storage device just be specific.I will then connect the flash drive to the system.
+This would the storage device that the file/s got deleted from , for this would be using a old flash drive i have been with for some time now , this would work for any storage device just be specific. I will then connect the flash drive to the system.
 ![usb-flash](image-4.png)
 
 ### Recovery Phase
   1. step 1 
-     start the Recuva app 
+     start the Recuva app and then click on ``next``
      ![Recuva startup](image.png)
-     then click on ``next``
+     
+     
 
      ![Selecting file-type](image-1.png)
      In this stage you can pick the specific kind of file you are after , we will be selecting all file 

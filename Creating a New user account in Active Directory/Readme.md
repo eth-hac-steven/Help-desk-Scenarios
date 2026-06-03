@@ -7,15 +7,17 @@ We will be creating a new User account For a New staff in the HR department , HR
        lastname  : Test
        Fullname  : Johnny Test
 
-### Step 1 : Boot up the Server
+### Boot up the Server
 once  the server is done booting, the ```Server Manager``` should automatically startup on its own , if not search and start it.
-once it full loaded;
-  - click on tools in the top right hand corner
-  - click on "Active directory user and  computers"
-  - Navigate to Department the user account needs to be added eg Human Resources/Users
+once it full loaded
+
+### Creating A User Account 
+  - click on ```tools``` in the top right hand corner
+  - click on ```Active directory user and  computers```
+  - Navigate to Department the user account needs to be added e.g ```Human Resources/Users```
   - right click on a empty space 
-  - then hover above "New"
-  - then select "User"
+  - then hover above ```New```
+  - then select ```User```
 Enter the following info gotten from HR 
   - firstname : Johnny
   - Intitials(optional)
@@ -25,19 +27,24 @@ Enter the following info gotten from HR
 
 ***Note***
 - the user logon name : This is the name the user will see when they want to login 
-- It is also important to Maintain a single naming convention when creating user account the above for constituency 
-  For Example
-   i.firstname.lastname@comapny.com
-   ii.Lastname.firtname@comapny.com
-   ii.Fullname@comapny.com
+- It is also important to Maintain a single naming convention when creating user account the above for constituency.For Example
+  - i.firstname.lastname@comapny.com
+  - ii.Lastname.firtname@comapny.com
+  - ii.Fullname@comapny.com
 
 click "Next" 
-Then create a password for this new account
-check the box "user must change at next logon"
-this make sure that the user changes this temp password when they log in again.
-click "Next"  
-Confirm the Details 
-then click finish.
+
+### Creating a Password for the Account
+
+- Enter a password for this new account
+- check the box ```User Must Change At Next Logon```
+  
+This make sure that the user changes this temp password when they log in again.
+
+- Click "Next"  
+- Confirm the Details 
+- Click finish.
+  
 The account should be successfully created.
 The user should login and change the temp password.
 

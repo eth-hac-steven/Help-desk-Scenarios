@@ -1,52 +1,57 @@
-# Creating A New  User Accout in Active Directory
+# Creating a New User Account in Active Directory
 
-As a part of Onboarding activities , A new hire/Staff needs a new account for them to be able  tow  work effectively, That is the Task for today.
-We will be creating a new User account For a New staff in the HR department , HR admin has provided us with the following information
+As part of onboarding activities, a new hire or staff member needs a new account to work effectively. This is the task for today.
 
-       firstname : Johnny
-       lastname  : Test
-       Fullname  : Johnny Test
+We will be creating a new user account for a new staff member in the HR department. The HR admin has provided us with the following information:
 
-### Boot up the Server
-once  the server is done booting, the ```Server Manager``` should automatically startup on its own , if not search and start it.
-once it full loaded
+| Field | Value |
+|-------|-------|
+| First Name | Johnny |
+| Last Name | Test |
+| Full Name | Johnny Test |
 
-### Creating A User Account 
-  - click on ```tools``` in the top right hand corner
-  - click on ```Active directory user and  computers```
-  - Navigate to Department the user account needs to be added e.g ```Human Resources/Users```
-  - right click on a empty space 
-  - then hover above ```New```
-  - then select ```User```
-Enter the following info gotten from HR 
-  - firstname : Johnny
-  - Intitials(optional)
-  - Lastname  : Test
-  - fullname  : Johnny Test
-  - User Logon name Johnny.Test
+## Boot up the Server
 
-***Note***
-- the user logon name : This is the name the user will see when they want to login 
-- It is also important to Maintain a single naming convention when creating user account the above for constituency.For Example
-  - i.firstname.lastname@comapny.com
-  - ii.Lastname.firtname@comapny.com
-  - ii.Fullname@comapny.com
+Once the server is done booting, the `Server Manager` should automatically start up on its own. If not, search for and start it.
 
-click "Next" 
+Once it is fully loaded, proceed to the next section.
 
-### Creating a Password for the Account
+## Creating a User Account
 
-- Enter a password for this new account
-- check the box ```User Must Change At Next Logon```
-  
-This make sure that the user changes this temp password when they log in again.
+1. Click on `Tools` in the top right-hand corner
+2. Click on `Active Directory Users and Computers`
+3. Navigate to the department where the user account needs to be added (e.g., `Human Resources/Users`)
+4. Right-click on an empty space
+5. Hover above `New`
+6. Select `User`
 
-- Click "Next"  
-- Confirm the Details 
-- Click finish.
-  
-The account should be successfully created.
-The user should login and change the temp password.
+Enter the following information provided by HR:
 
+| Field | Value |
+|-------|-------|
+| First Name | Johnny |
+| Initials | (optional) |
+| Last Name | Test |
+| Full Name | Johnny Test |
+| User Logon Name | Johnny.Test |
 
+Click **Next**
 
+### Important Notes
+
+- **User Logon Name**: This is the name the user will see when they log in
+- **Naming Convention**: It is important to maintain a consistent naming convention when creating user accounts. Examples:
+  - `firstname.lastname@company.com`
+  - `lastname.firstname@company.com`
+  - `fullname@company.com`
+
+## Creating a Password for the Account
+
+1. Enter a password for the new account
+2. Check the box `User Must Change At Next Logon`
+   - This ensures that the user changes this temporary password when they log in again
+3. Click **Next**
+4. Confirm the details
+5. Click **Finish**
+
+The account should now be successfully created. The user should log in and change the temporary password.

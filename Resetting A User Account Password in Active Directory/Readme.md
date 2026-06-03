@@ -1,28 +1,43 @@
 # Resetting A User Account Password
+
 ### Scenario
- The New hire MR.Johnny test has forgotten his password (we have all been there 😂) and needs the help of the IT departmnet to help him resset his password.
+The new hire Mr. Johnny Test has forgotten his password (we've all been there 😂) and needs the IT department to help him reset his password.
 
-And here is how ; 
-- click on ```tools``` in the top right hand corner
-- click on ```Active directory user and  computers```
+Here's how to do it:
 
-### Step : Locating the right Account
-  - we can use the search option to search for the User Account but since we know where it is we move.
-It is important to identify the Actual account in other not to affect someone else with the same name.
- - Navigate to the Department the Account was created in ```HUMAN RESOURCES/Users``` 
+### Prerequisites
+- Access to Active Directory Users and Computers
+- Administrative credentials
+- Knowledge of the user's department location
 
-### Step 2 : Resetting The Password for the User Account
+### Step 1: Opening Active Directory
 
-- Select the User account(Johnny Test) that  you want to change the password
-- then right click it 
-- click on "Reset Password"
-- Enter a new default password eg Resetme@Now
-- check the box "user must change at next logon"
- 
-this make sure that the user changes this temp password when they log in again.
+- Click on **Tools** in the top right-hand corner
+- Click on **Active Directory Users and Computers**
 
-- click oK
+### Step 2: Locating the Right Account
 
-With this the password  has been changed
-give the User the temp password with the required instruction (i hope it stick with him this time 😂)
- 
+- You can use the search option to find the user account, but if you already know the location, navigate directly
+- **Important:** Verify you have the correct account to avoid affecting another user with the same name
+- Navigate to the department where the account was created: **HUMAN RESOURCES > Users**
+
+### Step 3: Resetting the Password
+
+- Select the user account (Johnny Test) whose password you want to reset
+- Right-click on the account
+- Click on **"Reset Password"**
+- Enter a new temporary password (e.g., `Resetme@Now`)
+- Check the box **"User must change password at next logon"**
+  - This ensures the user changes the temporary password when they log in again
+- Click **OK**
+
+### Completion
+
+The password has been successfully reset. Provide the user with:
+- The temporary password
+- Instructions to change it upon first login
+- Reminder to store the new password securely
+
+---
+
+**Tip:** The "User must change password at next logon" requirement is a security best practice that ensures users set their own secure password rather than keeping a temporary one (I hope it sticks with them this time 😂)

@@ -1,57 +1,66 @@
 # Recovering Deleted File on Storage Devices
 
-If you have ever deleted a file from a storage device be it flash drive Hard drive and even the recent Solid drive (SSD) accidentally or not , at home or in the office do not fret, it can be ``recovered`` , with a tiny miniscule cave which is the success rate of the recovery depends on long ago said file was deleted.
+If you have ever deleted a file from a storage device be it flash drive, hard drive, and even the recent Solid State Drive (SSD) accidentally or not, at home or in the office, do not fret—it can be recovered!
 
-Regardless let Get it,
+Regardless, let's get it!
 
-### Tools
- 1. Data recovery software (Recuva)
- 2. Target storage device
+## Tools
 
-#### Data Recovering software
-They are many data recovering software out there feel free to search for them,but for this we are using ``Recuva`` which can be gotten from https://www.ccleaner.com/recuva/download and install it. 
+1. Data recovery software (Recuva)
+2. Target storage device
 
-#### Target Storage Device
-This would the storage device that the file/s got deleted from , for this would be using a old flash drive i have been with for some time now , this would work for any storage device just be specific. I will then connect the flash drive to the system.
+### Data Recovering Software
+
+There are many data recovery software options available. Feel free to search for them, but for this guide, we are using `Recuva`, which can be downloaded from https://www.ccleaner.com/recuva/download and installed.
+
+### Target Storage Device
+
+This would be the storage device that the file(s) got deleted from. For this guide, I will be using an old flash drive I have had for some time now. This will work for any storage device—just be specific.
+
 ![usb-flash](image-4.png)
 
-### Recovery Phase
-  1. step 1 
-     start the Recuva app and then click on ``next``
-     ![Recuva startup](image.png)
-     
-     
+## Recovery Phase
 
-     ![Selecting file-type](image-1.png)
-     In this stage you can pick the specific kind of file you are after , we will be selecting all file 
-     then click on ``next``
+### Step 1
 
-     ![selecting-target drive](image-2.png)
-     In this stage we select the ``in a specific location`` then select the Drive , mine is D.
-     then click on  ``okay`` and then ``next``
+Start the Recuva app and then click on `Next`
 
-     ![enabling deep scan or not ](image-3.png)
-     the image above lets you select either deep scan or not . if want a deep scan fine but  it will take time , i just enter ``start``.
+![Recuva startup](image.png)
 
-     ![recovered file](image-5.png)
-     fine if you compare the content of the image i added in the target device and this you can immediately tell the lack of movies as they have been deleted 
+![Selecting file-type](image-1.png)
 
-     Also looking closely you will see the ``state `` columns this tells you if the file target file can be recovered. 
+In this stage, you can pick the specific kind of file you are after. We will be selecting all files, then click on `Next`.
 
-     ![recover](image-6.png)
+![selecting-target drive](image-2.png)
 
-     for this , i will recovering the mufasa movie , click the checkbox then hit ``recover`` then select the destination of where the file should be kept ```Don`t place it back in the folder it is being recovered from``` choose another destination folder i chose the videos folders, then hit ``ok``
+In this stage, we select the `In a specific location` option, then select the drive (mine is D). Then click on `Okay` and then `Next`.
 
-     ![Destination-folder](image-7.png)
+![enabling deep scan or not](image-3.png)
 
-     Then the recovery begins depending on the size of the drive this can take way longer than this
+The image above lets you select whether to enable deep scan or not. If you want a deep scan, fine, but it will take time. I just enter `Start`.
 
-     ![recovering the file](image-8.png)
-     
-     See the file has been recovered.
-     ![alt text](image-9.png)
-    
-     Now lets check if it works.
-     ![recovered file](image-10.png)
+![recovered file](image-5.png)
 
-     There you have it , the file recovered and working , i will state that  the longer te file had been deleted the likelihood that it can`t be recovered 
+Fine! If you compare the content of the image I added in the target device and this one, you can immediately tell the lack of movies, as they have been deleted.
+
+Also, looking closely, you will see the `State` column. This tells you if the target file can be recovered.
+
+![recover](image-6.png)
+
+For this, I will be recovering the Mufasa movie. Click the checkbox, then hit `Recover`, then select the destination of where the file should be kept. **Don't place it back in the folder it was deleted from.**
+
+![Destination-folder](image-7.png)
+
+Then the recovery begins. Depending on the size of the drive, this can take way longer than this example.
+
+![recovering the file](image-8.png)
+
+See—the file has been recovered.
+
+![alt text](image-9.png)
+
+Now let's check if it works.
+
+![recovered file](image-10.png)
+
+There you have it! The file is recovered and working. I will note that the longer the file had been deleted, the less likely that it can be recovered.

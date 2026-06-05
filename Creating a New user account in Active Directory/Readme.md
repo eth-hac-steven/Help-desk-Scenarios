@@ -21,14 +21,14 @@ Once it is fully loaded, proceed to the next section.
 1. Click on `Tools` in the top right-hand corner
 2. Click on `Active Directory Users and Computers`
 
-![Active Directory Step 1](./New%20user%20creation%20images/Active-directory-step-1.png)
+![User Account Creation Step 1](./New%20user%20creation%20images/user%20account%20creation%20step1.png)
 
 3. Navigate to the department where the user account needs to be added (e.g., `Human Resources/Users`)
 4. Right-click on an empty space
 5. Hover above `New`
 6. Select `User`
 
-![User Account Creation Step 1](./New%20user%20creation%20images/user%20account%20creation%20step1.png)
+![User Account Creation Step 2](./New%20user%20creation%20images/user%20account%20creation%20step2.png)
 
 Enter the following information provided by HR:
 
@@ -40,7 +40,7 @@ Enter the following information provided by HR:
 | Full Name | Johnny Test |
 | User Logon Name | Johnny.Test |
 
-![User Account Creation Step 2](./New%20user%20creation%20images/user%20account%20creation%20step2.png)
+![User Account Creation Step 3](./New%20user%20creation%20images/user%20account%20creation%20step3.png)
 
 Click **Next**
 
@@ -61,6 +61,6 @@ Click **Next**
 4. Confirm the details
 5. Click **Finish**
 
-![User Account Creation Step 3](./New%20user%20creation%20images/user%20account%20creation%20step3.png)
+
 
 The account should now be successfully created. The user should log in and change the temporary password.

@@ -20,4 +20,8 @@ As we welcome Mr.Johnny Test we must sadly say goodbye to Susan Test (no relatio
 - Navigate to the department where the account was created: ACCOUNTING > Users
 
 ### Step 3 : Disabling The Account 
+- Right click on the account to be disabled (Susan test)
+- Click Disable account 
+- Click finish
 
+This disables the account NOT delete as it can enabled again.

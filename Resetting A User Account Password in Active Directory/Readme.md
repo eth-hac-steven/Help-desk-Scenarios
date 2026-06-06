@@ -15,6 +15,8 @@ Here's how to do it:
 - Click on **Tools** in the top right-hand corner
 - Click on **Active Directory Users and Computers**
 
+![step1](active-directory-step-1.png)
+
 ### Step 2: Locating the Right Account
 
 - You can use the search option to find the user account, but if you already know the location, navigate directly

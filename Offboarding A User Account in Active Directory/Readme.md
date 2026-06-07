@@ -23,13 +23,15 @@ As we welcome Mr.Johnny Test we must sadly say goodbye to Susan Test (no relatio
 
 ### Step 3 : Disabling The Account 
 - Right click on the account to be disabled (Susan test)
-- Click Disable account 
-- Click finish
 
 ![Disabling User Account - Right Click Menu](Disabling%20User%20Account%20Images/Disabling-user-account-step3.png)
 
+- Click ```Disable account``` 
+
 ![Disabling User Account - Process](Disabling%20User%20Account%20Images/Disabling-user-account-step4.png)
 
+- Click ```finish```
+  
 ![Disabling User Account - Confirmation](Disabling%20User%20Account%20Images/Disabling-user-account-step5.png)
 
 This disables the account NOT delete as it can enabled again.

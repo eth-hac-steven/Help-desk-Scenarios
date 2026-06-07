@@ -48,4 +48,4 @@ The password has been successfully reset. Provide the user with:
 
 ---
 
-**Tip:** The "User must change password at next logon" requirement is a security best practice that ensures users set their own secure password rather than keeping a temporary one (I hope it sticks with them this time 😂)
+**Tip:** The "User must change password at next logon" requirement is a security best practice that ensures users set their own secure password rather than keeping a temporary one (I hope it sticks wi[...]

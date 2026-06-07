@@ -37,9 +37,9 @@ Here's how to do it:
 
 ![step3](Resetting-user-password%20Images/Resetting%20_user_password-step-3.png)
 
-![step4](Resetting-user-password%20Images/Resetting%20_user_password-step-4.png)
-
 ### Completion
+
+![step4](Resetting-user-password%20Images/Resetting%20_user_password-step-4.png)
 
 The password has been successfully reset. Provide the user with:
 - The temporary password

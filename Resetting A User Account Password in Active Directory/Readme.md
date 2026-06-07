@@ -23,6 +23,8 @@ Here's how to do it:
 - **Important:** Verify you have the correct account to avoid affecting another user with the same name
 - Navigate to the department where the account was created: **HUMAN RESOURCES > Users**
 
+![step2](Resetting_user_password-step 2.png)
+
 ### Step 3: Resetting the Password
 
 - Select the user account (Johnny Test) whose password you want to reset
@@ -33,7 +35,11 @@ Here's how to do it:
   - This ensures the user changes the temporary password when they log in again
 - Click **OK**
 
+![step2](Resetting_user_password-step 3.png)
+
 ### Completion
+
+![step2](Resetting_user_password-step 4.png)
 
 The password has been successfully reset. Provide the user with:
 - The temporary password

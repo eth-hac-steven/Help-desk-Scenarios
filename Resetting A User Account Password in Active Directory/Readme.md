@@ -15,7 +15,7 @@ Here's how to do it:
 - Click on **Tools** in the top right-hand corner
 - Click on **Active Directory Users and Computers**
 
-![step1](Active-directory-step-1.png)
+![step1](Resetting-user-password%20Images/Active-directory-step-1.png)
 
 ### Step 2: Locating the Right Account
 
@@ -23,7 +23,7 @@ Here's how to do it:
 - **Important:** Verify you have the correct account to avoid affecting another user with the same name
 - Navigate to the department where the account was created: **HUMAN RESOURCES > Users**
 
-
+![step2](Resetting-user-password%20Images/Resetting%20_user_password-step-2.png)
 
 ### Step 3: Resetting the Password
 
@@ -35,11 +35,11 @@ Here's how to do it:
   - This ensures the user changes the temporary password when they log in again
 - Click **OK**
 
+![step3](Resetting-user-password%20Images/Resetting%20_user_password-step-3.png)
 
+![step4](Resetting-user-password%20Images/Resetting%20_user_password-step-4.png)
 
 ### Completion
-
-
 
 The password has been successfully reset. Provide the user with:
 - The temporary password
@@ -48,4 +48,4 @@ The password has been successfully reset. Provide the user with:
 
 ---
 
-**Tip:** The "User must change password at next logon" requirement is a security best practice that ensures users set their own secure password rather than keeping a temporary one (I hope it sticks with him this time 😂)
+**Tip:** The "User must change password at next logon" requirement is a security best practice that ensures users set their own secure password rather than keeping a temporary one!

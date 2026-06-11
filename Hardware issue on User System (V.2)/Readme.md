@@ -8,12 +8,13 @@ There are 3 States that fit this scenario
  - The monitor is not damaged but the display  cable is the culprit
  - The power cable could also be the culprit
  - The monitor might actually be damaged 🤷🏿‍♂️
- - Bonus : He did not on it
+ - Bonus : He did not turn on  the monitor
 
  After a closer look the HDMI port came loose , so after plugging back again the monitored now displays his Desktop.
 
 ### Note
-   Display cable can change depending  on the organization but the all do the same thing and they are
+
+   Display cable can change depending  on the organization but the all do the same thing and they are:
     - HDMI
     - VGA 
     - Display port and more recently

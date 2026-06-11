@@ -14,10 +14,10 @@ There are 3 States that fit this scenario
 
 ### Note
 
-   Display cable can change depending  on the organization but the all do the same thing and they are:
-    - HDMI
-    - VGA 
-    - Display port and more recently
+   Display cable can change depending  on the organization but the all do the same thing and they are
+   - HDMI
+   - VGA 
+   - Display port and more recently
     - The USB-C
     
 ----

@@ -19,4 +19,5 @@ There are 3 States that fit this scenario
     - VGA 
     - Display port and more recently
     - The USB-C
+    
 ----

@@ -7,7 +7,7 @@
  ### Identify the issue
 Arriving at Mrs.Aisha Workspace, i notice that there is not wifi sign in the action bar but a globe signifing there is no internet. 
 
-!(Netork issuse v.1)[network-issue (v.1).png]
+!(no-network)[Network-issues (v.1).png]
 
  - The next thing i checked was the system`s Ethernet port to see if the Ethernet cable is providing internet access to the system
  - It was not, both LED light were off, which signifies that the system is not getting internt access at all

@@ -1,7 +1,7 @@
 # Network issue V.1
 
 ### Scenario : 
- Mrs Aishsa came to the IT Department sayaing that she does not have access to the internet. Investigate and fix
+ Mrs Aishsa came to the IT Department saying that she does not have access to the internet. Investigate and fix
 
 ### solutions
  ### Identify the issue
@@ -22,4 +22,4 @@ Arriving at Mrs.Aisha Workspace, i notice that there is not wifi sign in the act
 
 ### Note
  The led light mention ealier are yellow(Steady lights indicate an established connection) and green (blinking lights signify active data transfer)
- There are lot reason why a system can just stop having access to the internet, this is but a one.  
+ There are lot reason why a system can just stop having access to the internet, this is but one.  

@@ -1,25 +1,25 @@
 #  Network issues (V.2-DNS)
 
  ### Scenario 
- Mr. johnny made a compliant this morning say he cant access  the internet in his cubicle but other around him, please investigate, resolve and close this ticket.
+ Mr.Johnny made a compliant this morning, says he can`t access the internet in his cubicle but others around him can, please investigate, resolve and close this ticket.
 
  ### Troubleshooting the Issue 
- - The ticket says he cant access the internet but other can.
- - upon getting to  his system  is the eternet connected sign in the action bar , which seems strange taking the compliant into account
- - i then decided to search for www.google.com and that failed revealing an interesting 
+ - The ticket says he cant access the internet but others can.
+ - upon getting to his system the Ethernet internet-connected sign(for desktop since a wired connection is bieng used) in the action bar, which seems strange taking the compliant into account
+ - i then decided to search for www.google.com and that failed revealing an interesting culprit
  - i then open the command prompt and ran
 ````
  ipconfig 
 ````
-(it has an ip)
+it has an ip
 ````
 ping 8.8.8.8 
 ````
-(4 packets successfully sent)
+4 packets successfully sent
 ````
 ping google.com 
 ````
- (that failed)
+ that failed and displayed the error "faiilure in name resolutions"
  - This reveals that the issue is DNS (Domain name resolution), which is responsible for mapping domain name like google.com, to an ip (8.8.8.8(Google DNS server)/172.217.22.14).
 
 ### Solution 

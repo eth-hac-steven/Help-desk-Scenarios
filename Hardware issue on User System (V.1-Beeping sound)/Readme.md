@@ -64,4 +64,4 @@ Beeping sounds often indicate hardware issues. Common causes:
 - Create incident ticket for tracking
 
 ### Outcome
-Once the system boots successfully with normal single beep (POST success) and no error messages, the issue is resolved. Advise Mr. Johnny to avoid abrupt power-offs and keep the system well-ventilated.
+Once the system boots successfully with normal single beep (POST success) and no error messages, the issue is resolved.

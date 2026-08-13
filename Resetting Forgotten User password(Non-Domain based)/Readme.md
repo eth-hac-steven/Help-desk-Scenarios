@@ -17,14 +17,20 @@
 ### Resolving User-Ticket
 
 1. on the login screen
-    - while holding the shift button hit the power button then restart 
+    - while holding the shift button hit the power button then restart
   
+  ![Shift+restart](2.jpg)
+
 2. Once the PC is back on you see this page (windows recovery environment)
     - Click on **Troubleshoot**
     - Click on **Advanced Options**
 
+![Troubleshoot](3.jpg)
+
 3. That will take you to the **Advanced options** page 
     - Click on  **Command Prompt**
+
+![command](4.jpg)
 
 4. Enter This command 
  ```
@@ -34,23 +40,28 @@
  ```
  copy c:\windows\system32\cmd.exe c:\windows\system32\utilman.exe /y
  ```
+![enteringthecommand](6.jpg)
+
 5. close the command prompt
-6. you be brought back to this page 
-2 again
+6. you be brought back to this page
+   
+  ![first-page](2.jpg)
+  
 7.  click on "Continue, Exit and continue to win 11"
  -  it should boot up and return back to the normal login page 
-8. Click on the Accessibility icon in the bottom left hand conner next to the power button 
+8. Click on the Accessibility icon (it looks like a tiny person) in the bottom right hand conner next to the power button 
    - it should open a command prompt 
    - then enter this command
   ```
  net localgroup administators
   ```
-  this command  reveals account on the device, now take note of the username whose password whose forgot 
+
+  this command  reveals account on the device, now take note of the username whose password whose forgot in this case it is Mr.Ethan james 
   - then run this command
   ```
   net user james *
   ```
-  - it should prompt you to Enter and confirm a new password (use a dummy password so Mr.ethan can change it later)
+  - it should prompt you to Enter and confirm a new password (use a dummy password so Mr.Ethan can change it later)
   - then you should see "Command completed successfully" 
 9. Use the new password to log in
   - voila access to the system restored, Mr. Ethan now has access to his pc with out deleting any files or wiping his system
@@ -68,4 +79,4 @@
 #### videos here : https://www.youtube.com/watch?v=ZK5mzXPlEHc
 ----- 
     
-**Note**: Only works if the PC's users aren't all admins. Otherwise, before you can't use command prompt, it asks for password, which makes it utterly useless, as that's the whole point
+

@@ -16,6 +16,8 @@
 
 # Resolving User-Ticket
 
+## Troubleshooting the Issue
+
 - Upon getting to the user workstaion i noticed the user was not connected to the internet, which is exactly why mr Johnny can't print but other can, to Confirm .
 
 - Run
@@ -25,7 +27,12 @@ ping <printer-ip>
 ```
 
 -  4 packets sent and 0 received, verifying network path to the printer has the issue.
-- Check the Ethernet cable and it was not properly seated with the LED light off,
+
+## Solution
+
+- Check the Ethernet cable and it was not properly seated with the LED light off, 
 - Re-seating the cable restored the internet connection,
 - ping  the printer again which was a success,
 - restoring access back to the printer.
+
+**Status**: Resolved
